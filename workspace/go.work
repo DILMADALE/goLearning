@@ -1,0 +1,7 @@
+go 1.23.2
+
+use (
+	./example/hello
+	./hello
+	./Day3/Exercise704/shape
+)
